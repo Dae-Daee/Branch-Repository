@@ -2,9 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Merges two subarrays of arr[].
-// First subarray is arr[l..m]
-// Second subarray is arr[m+1..r]
+//46564537689045789456894561648513468531486586531486
 void merge(int arr[], int l,
 		int m, int r)
 {
