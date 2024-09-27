@@ -10,7 +10,7 @@ def partition(l, r, nums):
     nums[ptr], nums[r] = nums[r], nums[ptr]
     return ptr
  
-
+#1234123412341234
  
 def quicksort(l, r, nums):
     if len(nums) == 1:  # Terminating Condition for recursion. VERY IMPORTANT!
